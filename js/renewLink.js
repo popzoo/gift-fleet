@@ -52,10 +52,10 @@
     var OriginTitile = document.title, titleTime;
     document.addEventListener('visibilitychange', function() {
         if (document.hidden) {
-            document.title = '小主失联了⊂⊙•⊙⊃';
+            document.title = '小主失踪了⊂⊙_⊙⊃';
             clearTimeout(titleTime);
         } else {
-            document.title = '带小主回家┗(^_^)┛';
+            document.title = '牵小主回家┗(^_^)┛';
             titleTime = setTimeout(function() {
                 document.title = OriginTitile;
             },3000);
