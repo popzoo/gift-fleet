@@ -1,4 +1,5 @@
 # 斗鱼礼物&斗鱼车队(Douyu Gift and fleet show)
+[![](https://data.jsdelivr.com/v1/package/gh/popzoo/pop/badge)](https://www.jsdelivr.com/package/gh/popzoo/pop)
 ## 斗鱼礼物大全和斗鱼车队筛选展示图
 <ul>
    <li><h3><a href="https://popzoo.github.io/guide/gift.html" style=" color:red; text-decoration:none" target="_blank" >礼物展示</a></h3></li>
